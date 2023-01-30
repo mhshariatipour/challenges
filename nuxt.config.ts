@@ -14,8 +14,8 @@ export default defineNuxtConfig({
         },
     },
 
-    runtimeConfig: {
-        apiKey: process.env.API_KEY
-    }
+    build: {
+        transpile: ['vue-toastification'],
+    },
 
 })
