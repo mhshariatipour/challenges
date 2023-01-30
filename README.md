@@ -19,7 +19,7 @@ npm run dev
 Start the development server on http://localhost:3000
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-##Array used in the project:
+## Array used in the project:
 ```bash
 const comments = [
     {
